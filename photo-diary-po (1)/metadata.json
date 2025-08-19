@@ -1,0 +1,8 @@
+{
+  "name": "Photo Diary PO",
+  "description": "A web application to capture photos from your camera, add a descriptive note, and save them. This app allows you to select from available cameras and maintains a daily log of your captures. Press the spacebar to take a picture.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}

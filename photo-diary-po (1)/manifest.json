@@ -1,0 +1,24 @@
+{
+  "short_name": "Photo Diary",
+  "name": "Photo Diary PO",
+  "description": "A web application to capture photos from your camera, add a descriptive note, and save them. This app allows you to select from available cameras and maintains a daily log of your captures. Press the spacebar to take a picture.",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgcng9IjIwIiBmaWxsPSIjMWYyOTM3Ii8+PHBhdGggZD0iTTUwIDMwIFYgODUgTTUwIDMwIEMgNDUgMjgsIDM4IDI3LCAzMCAyNyBTIDE1IDI4LCAxMCAzMCBWIDg1IEMgMTUgODMsIDIyIDgyLCAzMCA4MiBTIDQ1IDgzLCA1MCA4NSBNNTAgMzAgQyA1NSAyOCwgNjIgMjcsIDcwIDI3IFMgODUgMjgsIDkwIDMwIFYgODUgQyA4NSA4MywgNzggODIsIDcwIDgyIFMgNTUgODMsIDUwIDg1IiBmaWxsPSJub25lIiBzdHJva2U9IiMwNmI2ZDQiIHN0cm9rZS13aWR0aD0iNSIgLz48L3N2Zz4=",
+      "type": "image/svg+xml",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgcng9IjIwIiBmaWxsPSIjMWYyOTM3Ii8+PHBhdGggZD0iTTUwIDMwIFYgODUgTTUwIDMwIEMgNDUgMjgsIDM4IDI3LCAzMCAyNyBTIDE1IDI4LCAxMCAzMCBWIDg1IEMgMTUgODMsIDIyIDgyLCAzMCA4MiBTIDQ1IDgzLCA1MCA4NSBNNTAgMzAgQyA1NSAyOCwgNjIgMjcsIDcwIDI3IFMgODUgMjgsIDkwIDMwIFYgODUgQyA4NSA4MywgNzggODIsIDcwIDgyIFMgNTUgODMsIDUwIDg1IiBmaWxsPSJub25lIiBzdHJva2U9IiMwNmI2ZDQiIHN0cm9rZS13aWR0aD0iNSIgLz48L3N2Zz4=",
+      "type": "image/svg+xml",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#111827",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#1f2937"
+}
